@@ -2,8 +2,6 @@
 
 This is the example landing page built with Tailwind CSS.
 
-![Alt text](/img/screen.png?raw=true)
-
 # Usage
 
 Install dependencies (Tailwind)
