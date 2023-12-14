@@ -1,6 +1,6 @@
 # Tailwind Manage Landing Page
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
+This is the example landing page built with Tailwind CSS.
 
 ![Alt text](/img/screen.png?raw=true)
 
