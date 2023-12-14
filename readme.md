@@ -1,4 +1,4 @@
-# Tailwind Manage Landing Page
+# Tailwind Landing Page
 
 This is the example landing page built with Tailwind CSS.
 
